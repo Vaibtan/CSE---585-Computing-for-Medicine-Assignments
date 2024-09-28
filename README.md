@@ -1,1 +1,1 @@
-# CSE---585-Computing-for-Medicine-Assignments
+# CSE-585 Computing for Medicine Assignments
